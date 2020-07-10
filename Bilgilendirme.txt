@@ -1,6 +1,0 @@
-Programı Çalıştırmak İçin
-
-
-1-front.bat çalıştırın
-2-server.bat çalıştırın
-3.İnternet tarayıcısını açarak url kısmına "localhost:3000" yazıp uygulamayı açın.
